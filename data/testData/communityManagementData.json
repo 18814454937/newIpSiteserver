@@ -1,0 +1,57 @@
+﻿{"test_communityFileManagement_01001":
+    {
+
+    },
+"test_communityFileManagement_01002":
+    {
+
+    },
+"test_departmentInformationManagement_01001":
+    {
+        "departmentName":"测试一级生产部门最长",
+        "result":"测试一级生产部门最长无上级部门"
+    },
+"test_departmentInformationManagement_01002":
+    {
+        "departmentName":"短",
+        "result":"短无上级部门"
+    },
+"test_departmentInformationManagement_01003":
+    {
+        "departmentName":"测试二级生产部",
+        "superiorDepartment":"测试一级生产部门最长"
+    },
+"test_departmentInformationManagement_01004":
+    {
+        "departmentName":"短",
+        "updateDepartmentName":"测试三级生产部",
+        "superiorDepartment":"测试二级生产部"
+    },
+"test_departmentInformationManagement_01005":
+    {
+        "selectDepartmentName":"二级生产部"
+    },
+"test_departmentInformationManagement_01006":
+    {
+        "selectSuperiorDepartment":"一级生产部"
+    },
+"test_departmentInformationManagement_01008":
+    {
+        "departmentName":"测试三级生产部"
+    },
+"test_departmentInformationManagement_01009":
+    {
+        "departmentName":"测试三级生产部"
+    },
+"test_departmentInformationManagement_010010":
+    {
+        "selectDepartmentName":"生产部",
+        "selectSuperiorDepartment":"一级"
+    }
+
+
+
+
+
+
+}

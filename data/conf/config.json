@@ -1,0 +1,11 @@
+﻿{
+    "sitserver": "http://192.200.166.66:8081/cms/legrand.html",
+    "loginPwd": "123456",
+    "loginUser": "admin",
+    "projectPath": "D:\\Project\\newIpSiteserver\\",
+    "resultImagePtah": "D:\\Project\\newIpSiteserver\\data\\resultImage\\",
+    "screenshotPath": "D:\\Project\\newIpSiteserver\\data\\screenshot\\",
+    "contratImageEnable": "1",
+    "now": "2019-09-24  17_36_13\\",
+    "wait": 3
+}

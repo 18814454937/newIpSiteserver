@@ -1,0 +1,26 @@
+﻿{"test_informationRelease_01001":
+    {
+        "title": "物业test#$%_01",
+        "content": "物业test#$%_01物业test#$%_01",
+        "Tick":"勾选所有设备",
+        "result":"物业消息物业test#$%_01"
+    },
+"test_informationRelease_01002":
+    {
+        "informatiaonType":"紧急通知",
+        "title": "紧急test#$%_01",
+        "content": "紧急test#$%_01紧急test#$%_01",
+        "Tick":"勾选所有设备",
+        "result":"紧急通知紧急test#$%_01"
+    },
+"test_informationRelease_01003":
+    {
+        "informatiaonType":"广告消息",
+        "title": "广告test#$%_01",
+        "content": "广告test#$%_01广告test#$%_01",
+        "Tick":"勾选所有设备",
+        "result":"广告消息广告test#$%_01"
+    }
+
+
+}

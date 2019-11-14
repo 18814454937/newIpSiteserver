@@ -1,0 +1,64 @@
+{"test_vlanSetting_01001":
+    {
+        "vlanName": "test02",
+        "gateway": "192.168.1.1",
+        "netmask": "255.255.0.0",
+        "startIP":"192.168.1.10",
+        "maxNumber":2000
+    },
+"test_vlanSetting_01002":
+    {
+        "vlanName":"test02",
+        "maxNumber":4000,
+        "updateVlan":"update_003"
+    },
+"test_vlanSetting_01003":
+    {
+        "vlanName":"update_003"
+    },
+"test_vlanSetting_01004":
+    {
+        "vlanName":"test03",
+        "gateway": "192.169.1.1",
+        "netmask": "255.255.0.0",
+        "startIP":"192.169.1.10",
+        "maxNumber":2000
+    },
+"test_vlanSetting_01005":
+    {
+        "vlanName":"update_003"
+    },
+"test_vlanSetting_01006":
+    {
+        "vlanName":"update_003",
+        "maxNumber":5000
+    },
+"test_communityFileManagement_01001":
+    {
+
+    },
+"test_communityFileManagement_01002":
+    {
+        "zoneDescription":"4",
+        "zone":"4x区",
+        "zoneVLAN":"test02(192.168.1.10)",
+        "equipmentType":"696861|10吋金色管理中心机",
+        "number":1,
+        "result":"1#10吋金色管理中心机"
+    },
+"test_communityFileManagement_01003":
+    {
+        "zone":"4x区",
+        "VLAN":"test02(192.168.1.10) (192.168.1.10)",
+        "equipmentType":"693061|10寸金色竖屏单元门口机",
+        "number":1,
+        "result":"2#10寸金色竖屏单元门口机"
+    },
+"test_communityFileManagement_01004":
+    {
+        "zone":"4x区"
+    }
+
+
+
+}
